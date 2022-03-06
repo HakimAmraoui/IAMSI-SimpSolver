@@ -1,0 +1,8 @@
+c Petit exemple illustratif
+c
+c Prochaine ligne doit ressembler a ca : 
+c p cn nb_variable nb_clause
+p cnf 5 3
+-5 4 0
+-1 5 3 4 0
+-3 -4 0
